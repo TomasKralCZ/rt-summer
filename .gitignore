@@ -1,0 +1,5 @@
+/target
+/resources
+.vscode
+.idea
+Cargo.lock
